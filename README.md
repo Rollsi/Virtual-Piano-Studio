@@ -64,9 +64,6 @@ npm run dev
 
 MIT License - feel free to use this project for learning and development.
 
-## 👥 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Rollsi/Virtual-Piano-Studio/issues).
 
 ## 🙏 Acknowledgments
 
